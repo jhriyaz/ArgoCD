@@ -1,6 +1,5 @@
 locals {
   cluster_name    = "jahid"
-  account_id      = "211125448913"
   cluster_version = "1.31"
   vpc_name        = "ArgoCD"
 }
