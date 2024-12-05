@@ -1,5 +1,5 @@
 #Update packages and install unzip
-sudo apt update && sudo apt install upzip
+sudo apt update && sudo apt install unzip
 
 #Install AWS CLI
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
